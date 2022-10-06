@@ -1,0 +1,19 @@
+{
+  "name": "challenge4_arrays",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/albertvallsbe/202209-w2ch4-Xavi-Sans-Albert-Valls.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/albertvallsbe/202209-w2ch4-Xavi-Sans-Albert-Valls/issues"
+  },
+  "homepage": "https://github.com/albertvallsbe/202209-w2ch4-Xavi-Sans-Albert-Valls#readme"
+}
