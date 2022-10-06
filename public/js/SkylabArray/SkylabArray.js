@@ -1,17 +1,22 @@
 class SkylabArray {
-    lenght;
-    array;
+  length;
+  array;
+  some;
+  find;
+  filter;
+  map;
 
-    constructor(...rest) {
-        this.array = rest;
+  constructor(...rest) {
+    this.array = rest;
+  }
+
+  countLength() {
+    let count = 0;
+    for (const value of this.array) {
+      count++;
     }
-
-    push() {
-        console.log()
-    };
-    some;
-    find;
-    filter;
-    map;
-
+    return count;
+  }
 }
+
+export default SkylabArray;

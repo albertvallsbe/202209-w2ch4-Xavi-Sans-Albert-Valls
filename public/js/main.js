@@ -1,3 +1,5 @@
-const numbers = new SkylabArray(3)
+import SkylabArray from "./SkylabArray/SkylabArray.js";
 
-console.log(provapepe);
+const numbers = new SkylabArray(1, 2, 3, 4, 5);
+
+console.log(numbers.countLength());
