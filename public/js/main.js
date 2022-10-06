@@ -1,16 +1,3 @@
-class SkylabArray {
-    lenght;
-    push;
-    some;
-    find;
-    filter;
-    map;
-
-    constructor(...rest) {
-        this.rest = rest;
-    }
-}
-
-const provapepe = new SkylabArray();
+const numbers = new SkylabArray(3)
 
 console.log(provapepe);
